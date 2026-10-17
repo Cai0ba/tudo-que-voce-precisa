@@ -1,0 +1,6 @@
+# Copie para android/key.properties (ignorado pelo git) e preencha.
+# keytool -genkey -v -keystore ~/tqvp-upload.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+storeFile=/caminho/absoluto/tqvp-upload.jks
+storePassword=
+keyAlias=upload
+keyPassword=
